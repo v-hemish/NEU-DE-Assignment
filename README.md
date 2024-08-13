@@ -49,7 +49,7 @@ This script provides various functions to query the Twitter data stored in Mongo
 python query_twitter_data.py
 ```
 
-### 4. `test_query_functions.py`
+### 4. `test.py`
 This script contains unit tests for the query functions in `query_twitter_data.py`. The tests use `pytest` and `unittest.mock` to simulate database operations and validate the logic of each function.
 
 **Key Features**:
@@ -58,7 +58,7 @@ This script contains unit tests for the query functions in `query_twitter_data.p
 
 **Usage**:
 ```bash
-pytest test_query_functions.py
+pytest test.py
 ```
 
 ## Requirements
