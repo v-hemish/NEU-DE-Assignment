@@ -121,6 +121,27 @@ pytest test.py
 pip install -r requirements.txt
 ```
 
-## Summary
+## About Me
 
-This project provides a robust framework for processing, storing, and analyzing Twitter data. By breaking down the tasks into preprocessing, loading, querying, and testing, the project ensures that the data is clean, efficiently stored, and correctly analyzed.
+I'm currently engaged in a short-term contract at Adobe, where I am gaining valuable experience working on complex data processing tasks and enhancing my skills in various aspects of data engineering. My role involves working with large datasets, ensuring data integrity, and optimizing workflows for efficiency. This project, which I completed in 8 hours (honestly), showcases my ability to rapidly develop and implement data solutions that are both functional and scalable.
+
+I am passionate about data science and engineering, and I continuously seek opportunities to learn and grow in this field. My approach to problem-solving is both analytical and creative, allowing me to tackle challenges from multiple perspectives.
+
+## Enhancements
+
+Given more time, I would focus on the following enhancements to further improve the project:
+
+### Dockerization
+
+I would containerize the entire application using Docker. This would make the deployment process more straightforward, allowing the project to run consistently across different environments. By creating Docker images for the Flask API, MongoDB, and other dependencies, the project could be easily set up and scaled, ensuring a seamless and repeatable deployment process.
+
+### Comprehensive Test Suite
+
+I would expand the current test suite to cover more edge cases and scenarios. This would involve creating unit tests for additional functions, integrating end-to-end testing for the Flask API, and implementing automated testing pipelines. By doing so, I could ensure that the codebase is robust, maintainable, and resilient to changes.
+
+### Performance Optimization
+
+I would analyze the performance of the MongoDB queries and optimize them for faster response times. This could include indexing frequently queried fields, optimizing aggregation pipelines, and exploring the use of caching mechanisms for repeated queries.
+
+
+
