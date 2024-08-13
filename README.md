@@ -123,7 +123,7 @@ pip install -r requirements.txt
 
 ## About Me
 
-I'm currently engaged in a short-term contract at Adobe, where I am gaining valuable experience working on complex data processing tasks and enhancing my skills in various aspects of data engineering. My role involves working with large datasets, ensuring data integrity, and optimizing workflows for efficiency. This project, which I completed in 8 hours (honestly), showcases my ability to rapidly develop and implement data solutions that are both functional and scalable.
+I'm currently engaged in a short-term contract at Adobe, where I am gaining valuable experience working on complex data processing tasks and enhancing my skills in various aspects of data engineering. My role involves working with large datasets, ensuring data availability across multiple teams in Adobe, and optimizing workflows for efficiency. This project, which I completed in 8 hours (honestly), showcases my ability to rapidly develop and implement data solutions that are both functional and scalable.
 
 I am passionate about data science and engineering, and I continuously seek opportunities to learn and grow in this field. My approach to problem-solving is both analytical and creative, allowing me to tackle challenges from multiple perspectives.
 
